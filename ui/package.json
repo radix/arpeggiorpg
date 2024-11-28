@@ -57,7 +57,7 @@
     "eslint-plugin-react-refresh": "^0.4.3",
     "rollup-plugin-analyzer": "^4.0.0",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5",
+    "vite": "^4.5.2",
     "vitest": "^0.34.5",
     "wrangler": "^3.11.0"
   }
